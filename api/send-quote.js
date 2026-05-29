@@ -4,7 +4,7 @@
 const COMPANY_EMAIL = 'comercio@jmsolutionschile.com';
 // TEMPORARY: using onboarding@resend.dev until jmsolutionschile.com verifies in Resend
 // Once verified, change to: 'JM Solutions <noreply@jmsolutionschile.com>'
-const FROM_ADDRESS  = 'onboarding@resend.dev';
+const FROM_ADDRESS = 'JM Solutions <noreply@jmsolutionschile.com>';
 
 const CORS_HEADERS = {
     'Access-Control-Allow-Origin': '*',
